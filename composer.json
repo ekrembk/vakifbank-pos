@@ -1,0 +1,11 @@
+{
+    "name": "ekrembk/vakifbank-pos",
+    "description": "Vakıfbank sanal pos için php kütüphanesi.",
+    "version": "0.9",
+    "type": "library",
+    "homepage": "http://ekrembk.com",
+    "license": "GPL-2.0",
+    "require": {
+        "php": ">=5.3.0",
+    }
+}
